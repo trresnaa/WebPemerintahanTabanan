@@ -2,7 +2,7 @@
 
 Web Pemerintahan Tabanan adalah sebuah sistem informasi berbasis web yang dikembangkan sebagai proyek ujian akhir semester untuk kelas website developer. Proyek ini dirancang untuk menyediakan platform yang efisien dan efektif bagi pemerintah lokal untuk mengelola informasi dan layanan kepada masyarakat.
 
-## Fitur
+## Fitur,
 
 - **Autentikasi Pengguna**: Mengelola login dan logout untuk administrator.
 - **Manajemen Pegawai**: Fungsionalitas untuk menambah, mengedit, dan menghapus informasi pegawai.
